@@ -1,2 +1,3 @@
 # UbuntuBot
-Dirty JS KakaoBot
+Dirty JS KakaoBot # WORKING ON MESSENGERBOT-R
+# NOT WORKING ON OTHER APPS
